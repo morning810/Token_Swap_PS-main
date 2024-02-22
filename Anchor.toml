@@ -5,7 +5,7 @@ skip-lint = false
 token_exchange = "2mcXtmhv184eihwhqxvoD41QWyuDm4DirpFwHkpCrxyM"
 
 [registry]
-url = "https://api.devnet.solana.com"
+url = "https://api.devnet.solana.com" 
 
 [provider]
 cluster = "devnet"
